@@ -354,12 +354,12 @@ color:rgb(96,96,96);
     <section class="vedio-grid">
       <div class="vedio-preview">
         <div class="thumbnail-row">
-          <img  class="thumbnails" src="thumbnails/T1.jpeg">
+          <img  class="thumbnails" src="icons/T1.jpeg">
         <div class="vedio-time">9:30</div>
       </div>
         <div class="vedio-info-grid">
           <div class="channel-picture">
-    <img class="profile-picture" src="thumbnails/picture1.jpeg">
+    <img class="profile-picture" src="icons/picture1.jpeg">
        </div>
         <div class="vedio-info">
           <p class="vedio-title">
@@ -379,12 +379,12 @@ color:rgb(96,96,96);
   
   <div class="vedio-preview">
     <div class="thumbnail-row">
-      <img  class="thumbnails" src="thumbnails/T2.jpeg">
+      <img  class="thumbnails" src="icons/T2.jpeg">
       <div class="vedio-time">45:30</div>
     </div>
     <div class="vedio-info-grid">
       <div class="channel-picture">
-  <img class="profile-picture" src="thumbnails/picture2.jpeg">
+  <img class="profile-picture" src="icons/picture2.jpeg">
    </div> 
    <div class="vedio-info">
       <p class="vedio-title">
@@ -402,11 +402,11 @@ color:rgb(96,96,96);
   </div>
   <div class="vedio-preview">
     <div class="thumbnail-row">
-      <img  class="thumbnails" src="thumbnails/t3.jpeg">
+      <img  class="thumbnails" src="icons/t3.jpeg">
       <div class="vedio-time">29:30</div></div>
     <div class="vedio-info-grid">
       <div class="channel-picture">
-  <img class="profile-picture" src="thumbnails/picture4.jpeg">
+  <img class="profile-picture" src="icons/picture4.jpeg">
    </div>
     <div class="vedio-info">
       <p class="vedio-title">
@@ -427,11 +427,11 @@ color:rgb(96,96,96);
   
   <div class="vedio-preview">
   <div class="thumbnail-row">
-  <img  class="thumbnails" src="thumbnails/t4.jpeg">
+  <img  class="thumbnails" src="icons/t4.jpeg">
   <div class="vedio-time">30:30</div> </div>
   <div class="vedio-info-grid">
   <div class="channel-picture">
-  <img class="profile-picture" src="thumbnails/picture3.jpeg">
+  <img class="profile-picture" src="icons/picture3.jpeg">
   </div> 
   <div class="vedio-info">
   <p class="vedio-title">
@@ -449,11 +449,11 @@ color:rgb(96,96,96);
   </div>
   <div class="vedio-preview">
     <div class="thumbnail-row">
-      <img  class="thumbnails" src="thumbnails/t5.jpeg">
+      <img  class="thumbnails" src="icons/t5.jpeg">
       <div class="vedio-time">9:30</div> </div>
     <div class="vedio-info-grid">
       <div class="channel-picture">
-  <img class="profile-picture" src="thumbnails/picture5.jpeg">
+  <img class="profile-picture" src="icons/picture5.jpeg">
    </div>
     <div class="vedio-info">
       <p class="vedio-title">
@@ -474,11 +474,11 @@ color:rgb(96,96,96);
   
   <div class="vedio-preview">
   <div class="thumbnail-row">
-  <img  class="thumbnails" src="thumbnails/t6.jpeg">
+  <img  class="thumbnails" src="icons/t6.jpeg">
   <div class="vedio-time">9:30</div></div>
   <div class="vedio-info-grid">
   <div class="channel-picture">
-  <img class="profile-picture" src="thumbnails/picture6.jpeg">
+  <img class="profile-picture" src="icons/picture6.jpeg">
   </div> 
   <div class="vedio-info">
   <p class="vedio-title">
@@ -496,11 +496,11 @@ color:rgb(96,96,96);
   </div>
   <div class="vedio-preview">
     <div class="thumbnail-row">
-      <img  class="thumbnails" src="thumbnails/t8.jpeg">
+      <img  class="thumbnails" src="icons/t8.jpeg">
       <div class="vedio-time">7:30</div></div>
     <div class="vedio-info-grid">
       <div class="channel-picture">
-  <img class="profile-picture" src="thumbnails/picture7.jpeg">
+  <img class="profile-picture" src="icons/picture7.jpeg">
    </div>
     <div class="vedio-info">
       <p class="vedio-title">
@@ -519,11 +519,11 @@ color:rgb(96,96,96);
   
   <div class="vedio-preview">
   <div class="thumbnail-row">
-  <img  class="thumbnails" src="thumbnails/t9.jpeg">
+  <img  class="thumbnails" src="icons/t9.jpeg">
   <div class="vedio-time">4:10</div></div>
   <div class="vedio-info-grid">
   <div class="channel-picture">
-  <img class="profile-picture" src="thumbnails/picture8.jpeg">
+  <img class="profile-picture" src="icons/picture8.jpeg">
   </div> 
   <div class="vedio-info">
   <p class="vedio-title">
@@ -541,11 +541,11 @@ color:rgb(96,96,96);
   </div>
   <div class="vedio-preview">
     <div class="thumbnail-row">
-      <img  class="thumbnails" src="thumbnails/t10.jpeg">
+      <img  class="thumbnails" src="icons/t10.jpeg">
       <div class="vedio-time">40:30</div> </div>
     <div class="vedio-info-grid">
       <div class="channel-picture">
-  <img class="profile-picture" src="thumbnails/picture9.png">
+  <img class="profile-picture" src="icons/picture9.png">
    </div>
     <div class="vedio-info">
       <p class="vedio-title">
@@ -564,11 +564,11 @@ color:rgb(96,96,96);
   
   <div class="vedio-preview">
   <div class="thumbnail-row">
-  <img  class="thumbnails" src="thumbnails/t11.jpeg">
+  <img  class="thumbnails" src="icons/t11.jpeg">
   <div class="vedio-time">7:30</div></div>
   <div class="vedio-info-grid">
   <div class="channel-picture">
-  <img class="profile-picture" src="thumbnails/picture10.jpeg">
+  <img class="profile-picture" src="icons/picture10.jpeg">
   </div> 
   <div class="vedio-info">
   <p class="vedio-title">
@@ -586,11 +586,11 @@ color:rgb(96,96,96);
   </div>
   <div class="vedio-preview">
     <div class="thumbnail-row">
-      <img  class="thumbnails" src="thumbnails/tt.jpeg">
+      <img  class="thumbnails" src="icons/tt.jpeg">
       <div class="vedio-time">15:40</div> </div>
     <div class="vedio-info-grid">
       <div class="channel-picture">
-  <img class="profile-picture" src="thumbnails/picture11.png">
+  <img class="profile-picture" src="icons/picture11.png">
    </div>
     <div class="vedio-info">
       <p class="vedio-title">
@@ -609,11 +609,11 @@ color:rgb(96,96,96);
   
   <div class="vedio-preview">
   <div class="thumbnail-row">
-  <img  class="thumbnails" src="thumbnails/t12.jpeg">
+  <img  class="thumbnails" src="icons/t12.jpeg">
   <div class="vedio-time">6:00</div></div>
   <div class="vedio-info-grid">
   <div class="channel-picture">
-  <img class="profile-picture" src="thumbnails/picture12.jpeg">
+  <img class="profile-picture" src="icons/picture12.jpeg">
   </div> 
   <div class="vedio-info">
   <p class="vedio-title">
